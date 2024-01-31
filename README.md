@@ -1,5 +1,5 @@
 # CARMA-1Dexoplanet
-This repository is for running 1D cloud microphysical experiments with CARMA. It runs the baseline experiment in Yang et al 2024.  
+This repository is for running the baseline case of 1D cloud microphysical experiment with CARMA.
 
 ## File Description
 -- tests/carma_nuc_grow.F90: This is the "main code" which defines the cloud formation process. It specifies temperature profile, moisture and aerosol transport and aerosol distributions, numerical details like time step and running length...   
